@@ -1,0 +1,237 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/app_images/amazonpay.png",
+      "sha1": "4ec7050dda251f228cb2b9a5220cc986099dd3c7"
+    },
+    {
+      "path": "src/assets/app_images/applepay.png",
+      "sha1": "0b06e72fa97134cda893f1688ab8852fef316f1f"
+    },
+    {
+      "path": "src/assets/app_images/avatar.png",
+      "sha1": "3455b9a804fed85c996001bfbcc73e6034bdf528"
+    },
+    {
+      "path": "src/assets/app_images/gpay.png",
+      "sha1": "039fbff59306d5e4300ef7614d796844345575af"
+    },
+    {
+      "path": "src/assets/coffee_assets/americano/portrait/americano_pic_1_portrait.png",
+      "sha1": "685f99c5602e8692061e11137b4b0c94b6f92c0c"
+    },
+    {
+      "path": "src/assets/coffee_assets/americano/portrait/americano_pic_2_portrait.png",
+      "sha1": "3d56d41dc7d42da2f65d38bf3c62b695d35c2ef8"
+    },
+    {
+      "path": "src/assets/coffee_assets/americano/portrait/americano_pic_3_portrait.png",
+      "sha1": "a1d3f6dff501ff52f96a12f4b76825087c4da4a6"
+    },
+    {
+      "path": "src/assets/coffee_assets/americano/square/americano_pic_1_square.png",
+      "sha1": "137ba5cae8d7b77fd97a8eeb6e8c699b4433472d"
+    },
+    {
+      "path": "src/assets/coffee_assets/americano/square/americano_pic_2_square.png",
+      "sha1": "f371d1fa1e462a3e50046465f268342f15b2bd93"
+    },
+    {
+      "path": "src/assets/coffee_assets/americano/square/americano_pic_3_square.png",
+      "sha1": "38d0d2092c97148a973b4a8123cdcfb52eae0b88"
+    },
+    {
+      "path": "src/assets/coffee_assets/arabica_coffee_beans/arabica_coffee_beans_portrait.png",
+      "sha1": "16c9a6b4831083049f7707b8dcc3ca0c7498a691"
+    },
+    {
+      "path": "src/assets/coffee_assets/arabica_coffee_beans/arabica_coffee_beans_square.png",
+      "sha1": "b375405f6f071ffff4e8b605f910c9a596e29912"
+    },
+    {
+      "path": "src/assets/coffee_assets/black_coffee/portrait/black_coffee_pic_1_portrait.png",
+      "sha1": "8ad3aef75b17cfa2cf331c0a2627b6b86fbd7e68"
+    },
+    {
+      "path": "src/assets/coffee_assets/black_coffee/portrait/black_coffee_pic_2_portrait.png",
+      "sha1": "45eca36530211ca5f391959ab78e6a065e9e38c7"
+    },
+    {
+      "path": "src/assets/coffee_assets/black_coffee/portrait/black_coffee_pic_3_portrait.png",
+      "sha1": "80bf34874c6e91beffdf178fd411e4da605c5b1f"
+    },
+    {
+      "path": "src/assets/coffee_assets/black_coffee/square/black_coffee_pic_1_square.png",
+      "sha1": "13962f4de82128e0284fdd4a17f35c26c15bef60"
+    },
+    {
+      "path": "src/assets/coffee_assets/black_coffee/square/black_coffee_pic_2_square.png",
+      "sha1": "1be7ef6985aeff91f4aeadb237b71f1f6c1d4a8f"
+    },
+    {
+      "path": "src/assets/coffee_assets/black_coffee/square/black_coffee_pic_3_square.png",
+      "sha1": "517bd167fa181c73075414bf49a3d74e519d866b"
+    },
+    {
+      "path": "src/assets/coffee_assets/cappuccino/portrait/cappuccino_pic_1_portrait.png",
+      "sha1": "f779a1ae66323767c0c0297f2c6de012cd5c8ea5"
+    },
+    {
+      "path": "src/assets/coffee_assets/cappuccino/portrait/cappuccino_pic_2_portrait.png",
+      "sha1": "b112cd3b97bfb245e384f72992e288091c086cf6"
+    },
+    {
+      "path": "src/assets/coffee_assets/cappuccino/portrait/cappuccino_pic_3_portrait.png",
+      "sha1": "dd8ac758166a523cacc521df589cd580eee249e3"
+    },
+    {
+      "path": "src/assets/coffee_assets/cappuccino/square/cappuccino_pic_1_square.png",
+      "sha1": "c5024b616a95aa2c92e4567c00fa262203bdf537"
+    },
+    {
+      "path": "src/assets/coffee_assets/cappuccino/square/cappuccino_pic_2_square.png",
+      "sha1": "0b6bd08c07938581803903e17a27a9560b844aff"
+    },
+    {
+      "path": "src/assets/coffee_assets/cappuccino/square/cappuccino_pic_3_square.png",
+      "sha1": "7a0435698649161f11e6be91656c7bc3d3f74715"
+    },
+    {
+      "path": "src/assets/coffee_assets/espresso/portrait/espresso_pic_1_portrait.png",
+      "sha1": "61498f6756dc52c8360df69be36a392ccde9e690"
+    },
+    {
+      "path": "src/assets/coffee_assets/espresso/portrait/espresso_pic_2_portrait.png",
+      "sha1": "a7d1cb7128b15df1e3dce4ea81607a37bbb0e1f6"
+    },
+    {
+      "path": "src/assets/coffee_assets/espresso/portrait/espresso_pic_3_portrait.png",
+      "sha1": "436c50c217b2d7739cd6bb5aec54db175b210912"
+    },
+    {
+      "path": "src/assets/coffee_assets/espresso/square/espresso_pic_1_square.png",
+      "sha1": "3d26c8071b1b3121c2502a3dbc421db0e4f2a1f7"
+    },
+    {
+      "path": "src/assets/coffee_assets/espresso/square/espresso_pic_2_square.png",
+      "sha1": "d8ccd27a3d6a1ca845478dfbed70f642f5d1d6bc"
+    },
+    {
+      "path": "src/assets/coffee_assets/espresso/square/espresso_pic_3_square.png",
+      "sha1": "e0e35545410fbb2a19ca0def1fd47dcdd8c3b8a5"
+    },
+    {
+      "path": "src/assets/coffee_assets/excelsa_coffee_beans/excelsa_coffee_beans_portrait.png",
+      "sha1": "bbdb79546f6e3fd8941d259636ad413350ed9ebf"
+    },
+    {
+      "path": "src/assets/coffee_assets/excelsa_coffee_beans/excelsa_coffee_beans_square.png",
+      "sha1": "6937f747f201fa632d3502f76bdff730eb05282a"
+    },
+    {
+      "path": "src/assets/coffee_assets/latte/portrait/latte_pic_1_portrait.png",
+      "sha1": "8ad0a4a284c645b19caa0de63c18c7431489d758"
+    },
+    {
+      "path": "src/assets/coffee_assets/latte/portrait/latte_pic_2_portrait.png",
+      "sha1": "69bd668a78900a5685b593a405bb203645545eaa"
+    },
+    {
+      "path": "src/assets/coffee_assets/latte/portrait/latte_pic_3_portrait.png",
+      "sha1": "91bb2130615b67f126f6892e7557833035f0be2d"
+    },
+    {
+      "path": "src/assets/coffee_assets/latte/square/latte_pic_1_square.png",
+      "sha1": "6328154fafec18dc200dc94d00556b747257e2f2"
+    },
+    {
+      "path": "src/assets/coffee_assets/latte/square/latte_pic_2_square.png",
+      "sha1": "1812c74358047243e3b30925af31b501f0a83e85"
+    },
+    {
+      "path": "src/assets/coffee_assets/latte/square/latte_pic_3_square.png",
+      "sha1": "36a906f3948b945234db478856285a6df602ab17"
+    },
+    {
+      "path": "src/assets/coffee_assets/liberica_coffee_beans/liberica_coffee_beans_portrait.png",
+      "sha1": "91b740580f694387995664be0b31e107e5983032"
+    },
+    {
+      "path": "src/assets/coffee_assets/liberica_coffee_beans/liberica_coffee_beans_square.png",
+      "sha1": "4a8e436c08d3f6b22e7d0216b9767e9a99635e91"
+    },
+    {
+      "path": "src/assets/coffee_assets/macchiato/portrait/macchiato_pic_1_portrait.png",
+      "sha1": "81148b809d3844f7059b53b588cdf1572bc3af00"
+    },
+    {
+      "path": "src/assets/coffee_assets/macchiato/portrait/macchiato_pic_2_portrait.png",
+      "sha1": "9339efb478e7cd44bcff4a507cc10ac378a6aade"
+    },
+    {
+      "path": "src/assets/coffee_assets/macchiato/portrait/macchiato_pic_3_portrait.png",
+      "sha1": "b0322d33abddfe1812c0973ab97b44684159fa25"
+    },
+    {
+      "path": "src/assets/coffee_assets/macchiato/square/macchiato_pic_1_square.png",
+      "sha1": "e8117c34de4c4cc1513e77d34afaf36cfc42f79f"
+    },
+    {
+      "path": "src/assets/coffee_assets/macchiato/square/macchiato_pic_2_square.png",
+      "sha1": "662890a8d53615c452f63db831e569437318af20"
+    },
+    {
+      "path": "src/assets/coffee_assets/macchiato/square/macchiato_pic_3_square.png",
+      "sha1": "1beae6c27840c63e168df79dda3bdc819c593ab7"
+    },
+    {
+      "path": "src/assets/coffee_assets/robusta_coffee_beans/robusta_coffee_beans_portrait.png",
+      "sha1": "9a299174dff0c77f894fc80e9cf5fb7aa347dfad"
+    },
+    {
+      "path": "src/assets/coffee_assets/robusta_coffee_beans/robusta_coffee_beans_square.png",
+      "sha1": "2309066dadc84c09821be71da1a6790792d1a764"
+    },
+    {
+      "path": "src/assets/fonts/app_icons.ttf",
+      "sha1": "18e5fe2f93c853bbb495975f04df56438d595de5"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Black.ttf",
+      "sha1": "645e04c53c6b5b35bce654a811ebce16af8aa721"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Bold.ttf",
+      "sha1": "875cf0cecd647bcf22e79d633d868c1b1ec98dfa"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-ExtraBold.ttf",
+      "sha1": "4b5c0750f073abd576413a0898d3b95adaf199c8"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-ExtraLight.ttf",
+      "sha1": "85af6582a7e6155917c605f9d3fed68c02b23b06"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Light.ttf",
+      "sha1": "e247a92158e112f8bf7b638c8d95381d66b00dbb"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Medium.ttf",
+      "sha1": "283f21b44efbdbf276ba802be2d949a36bbc4233"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Regular.ttf",
+      "sha1": "fdd3002e7d814ee47c1c1b8487c72c6bbb3a2d00"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-SemiBold.ttf",
+      "sha1": "8a4ace9392d06bcb7f8ea2f5169b07e4c383a90d"
+    },
+    {
+      "path": "src/assets/fonts/Poppins-Thin.ttf",
+      "sha1": "09ba4dcd5509c8085bf88c665dcc51cbdfced27b"
+    }
+  ]
+}
