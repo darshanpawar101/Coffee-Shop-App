@@ -1,3 +1,9 @@
+# 📱 Build a Coffee Shop App using React Native ☕| Beginner | 2023
+
+![Coffee Shop App](https://img.youtube.com/vi/W1Co2M-gsQE/hqdefault.jpg)
+
+[VIDEO TUTORIAL](https://www.youtube.com/watch?v=W1Co2M-gsQE)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
