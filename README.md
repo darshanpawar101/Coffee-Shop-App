@@ -1,6 +1,6 @@
 # 📱 Build a Coffee Shop App using React Native ☕| Beginner | 2023
 
-![Coffee Shop App](https://img.youtube.com/vi/W1Co2M-gsQE/hqdefault.jpg)
+![Coffee Shop App](https://i.ytimg.com/vi/W1Co2M-gsQE/maxresdefault.jpg)
 
 [VIDEO TUTORIAL](https://www.youtube.com/watch?v=W1Co2M-gsQE)
 
