@@ -10,7 +10,15 @@ const Stack = createNativeStackNavigator();
 
 const App = () => {
   useEffect(() => {
-    SplashScreen.hide();
+    const ac = new AbortController();
+
+    setTimeout(() => {
+      SplashScreen.hide();
+    }, 1000); //SET YOUR PREFERRED TIMEOUT
+
+    return function cleanup() {
+      ac.abort();
+    };
   }, []);
   return (
     <NavigationContainer>
